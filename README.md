@@ -3,7 +3,7 @@ Hi, I’m **@fedkad**
 
 - 👀 I’m interested in Linux system admin and scripting languages.
 - 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I am not looking to collaborate on anything specifically, but who knows?
 - 📫 You can reach me at: https://github.com/fedkad/
 
 <!---
